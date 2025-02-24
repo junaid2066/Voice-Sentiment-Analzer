@@ -12,5 +12,8 @@ Features
 
 Setup Instructions
 
-1. Clone the Repository
+1. Clone the Repository:
+git clone https://github.com/junaid2066/voice-sentiment-analzer.git
+cd voice-sentiment-analzer
+3. 
 
