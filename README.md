@@ -15,5 +15,15 @@ Setup Instructions
 1. Clone the Repository:
 git clone https://github.com/junaid2066/voice-sentiment-analzer.git
 cd voice-sentiment-analzer
-3. 
+
+2. Install Dependencies:
+pip install -r requirements.txt
+
+3. Download Daataset:
+Download the RAVDESS dataset and place it in the data/ravdess-emotional-speech-audio/ directory.
+
+4. Run the Project
+Open the Jupyter notebook located in notebooks/ and execute the cells to run the analysis and model training.
+
+
 
